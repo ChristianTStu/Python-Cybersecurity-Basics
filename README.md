@@ -5,14 +5,14 @@ The goal of this repo is to create a structured path to rapidly advance my under
 
 ### Outline: 
   - Level 1: The Basics
-      - Pluarlsight Python Path
+      - Pluralsight Python Path
           - Python: The Big Picture
           - Python: Getting Started
           - Python: The Fundamentals
       - Git and Github Tutorial for Beginners
        
   - Level 2: Intermediate (the Start of Security Implementation)
-      - Pluarlsight: Python Intermediate
+      - Pluralsight: Python Intermediate
           - Python: Beyond the Basics
           - Python & Ethical Hackinng from Scratch (StationX)
 
@@ -32,4 +32,4 @@ The goal of this repo is to create a structured path to rapidly advance my under
   - Project 2 (KeyLogger)
     
   - Project 3 (Trojan)
-      - Hide Keyloger (from Project 2) within Basic PyGame.
+      - Hide Keylogger (from Project 2) within Basic PyGame.
